@@ -184,9 +184,10 @@ module.exports = {
         `gatsby-plugin-force-trailing-slashes`,
         `gatsby-plugin-offline`,
         {
-          resolve 'gatsby-plugin-google-analytics',
+          resolve: 'gatsby-plugin-google-analytics',
           options: {
               trackingId: 'UA-141190377-2',
+              head: false,
           },
         },
     ],
