@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://ravinius.herokuapp.com",
+    "contentApiKey": "67493498d61494d7ce1ae09bf1"
+  },
+  "production": {
+    "apiUrl": "https://ravinius.herokuapp.com",
+    "contentApiKey": "67493498d61494d7ce1ae09bf1"
+  }
+}
